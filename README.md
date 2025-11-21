@@ -1,6 +1,9 @@
 <!-- #region -->
 # Lung-DDPM+: Efficient Thoracic CT Image Synthesis using Diffusion Probabilistic Model
 
+## News
+- Lung-DDPM+ is accepted by **Computers in Biology and Medicine**, **[CIBM Acticle](https://doi.org/10.1016/j.compbiomed.2025.111290)**.
+
 <img src="materials/Figure1.png" alt="drawing" width="100%"/>
 
 [[Preprint article](https://www.arxiv.org/abs/2508.09327)] [[Dataset & Pretrained models](https://drive.google.com/drive/folders/1fV2RodOtF96WhcCF4wFc8DumL79Hup4-?usp=sharing)]
